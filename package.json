@@ -1,0 +1,30 @@
+{
+  "name": "daveeksdk",
+  "version": "0.0.1",
+  "private": true,
+  "scripts": {
+    "start": "node app.js"
+  },
+  "dependencies": {
+    "body-parser": "^1.15.0",
+    "cfenv": "1.0.x",
+    "express": "4.13.x",
+    "request": "^2.81.0",
+    "watson-developer-cloud": "^2.27.0"
+  },
+  "repository": {},
+  "engines": {
+    "node": "4.x"
+  },
+  "description": "This application demonstrates a simple, reusable Node.js web application based on the Express framework.",
+  "main": "app.js",
+  "devDependencies": {},
+  "keywords": [
+    "watson",
+    "bluemix",
+    "messenger",
+    "chatbot"
+  ],
+  "author": "Deivy Velasco",
+  "license": "ISC"
+}
